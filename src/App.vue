@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  img(src='./dist/logo.png')
+  img(src='https://alercard.github.io/platzimusic/dist/logo.png')
   h1 PlatziMusic
 
   select(v-model="selectedCountry")
